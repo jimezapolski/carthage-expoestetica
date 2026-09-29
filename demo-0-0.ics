@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Carthage//Expoestetica 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:carthage-expoestetica-0-0@carthagebeauty.com
+DTSTAMP:20260927T150000Z
+DTSTART:20261003T144500Z
+DTEND:20261003T153000Z
+SUMMARY:Carthage · Exosomas en acción · Cejas
+LOCATION:La Rural\, Av. Sarmiento 2704\, CABA · Expoestética 2026 · Stand 48 Carthage
+DESCRIPTION:Demo stand · Bio-regeneración y estimulación folicular con Dermapen · Tec. Clga. Daiana Lagos
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 minutos en el Stand 48
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 10 minutos en el Stand 48
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

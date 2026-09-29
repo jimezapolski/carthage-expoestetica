@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Carthage//Expoestetica 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:carthage-expoestetica-1-1@carthagebeauty.com
+DTSTAMP:20260927T150000Z
+DTSTART:20261004T173000Z
+DTEND:20261004T181500Z
+SUMMARY:Carthage · Azelaico Skin Peel · Peeling multiacción
+LOCATION:La Rural\, Av. Sarmiento 2704\, CABA · Expoestética 2026 · Stand 48 Carthage
+DESCRIPTION:Workshop oficial · La sinergia tri-activa para la restauración del tejido reactivo · Tec. Clga. Daiana Lagos
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 minutos en el Stand 48
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 10 minutos en el Stand 48
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Carthage//Expoestetica 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:carthage-expoestetica-0-1@carthagebeauty.com
+DTSTAMP:20260927T150000Z
+DTSTART:20261003T181000Z
+DTEND:20261003T185500Z
+SUMMARY:Carthage · GHK-Cu PRO · Bioarquitectura cutánea
+LOCATION:La Rural\, Av. Sarmiento 2704\, CABA · Expoestética 2026 · Stand 48 Carthage
+DESCRIPTION:Workshop oficial · Más allá de la firmeza: la nueva biología del sostén cutáneo · Ctra. Sonia Jaroszewicz
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 30 minutos en el Stand 48
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:En 10 minutos en el Stand 48
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
